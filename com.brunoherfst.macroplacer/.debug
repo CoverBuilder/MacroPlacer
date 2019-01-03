@@ -1,0 +1,7 @@
+<ExtensionList>
+    <Extension Id="com.brunoherfst.macroplacer">
+       <HostList>
+           <Host Name="IDSN" Port="8088"/>
+        </HostList>
+    </Extension>
+</ExtensionList>
